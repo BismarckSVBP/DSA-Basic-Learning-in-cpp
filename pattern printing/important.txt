@@ -1,0 +1,2 @@
+//bitwise operator -> jo operator hum bit level par laga paaye use bitwise operator kahte
+
