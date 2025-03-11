@@ -1,0 +1,12 @@
+// vector is a dynamic array
+
+// declearation of vector ==>  vector <int > arr; 
+//default size of vector is 2
+//to intialise a array ==> vector< int >arr(n); ==> it make a array having n elements
+//vector< int >arr(10,29,39);==> it will make a int vector which will contains 10,29,30
+// to add a element in array ==> arr.push_back(5)
+// to remove a element from array ==> arr.pop_back(7)
+
+//to check vector is empty or not ==> arr.empty(); ==> returns true & false
+// it will return how many element are present in a array ==> arr.size()
+// it will return how many element can be stored in a array ==> arr.capacity()

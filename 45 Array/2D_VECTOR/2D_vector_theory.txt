@@ -1,0 +1,3 @@
+// to decleare a 2D vector ==> vector<vector<int> >arr;
+// to initialise 2D vector ===>  vector<vector<int> >arr(4,vector<int>(3)); ===> it is known as vector of vector
+// in above line no. of rows = 4,no. of columns = 3
