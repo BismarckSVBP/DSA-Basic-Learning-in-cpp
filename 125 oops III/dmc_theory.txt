@@ -1,0 +1,24 @@
+
+
+for static allocation stack memory is use means stack memory is use for generally for lacal variable storage , function parameter storage etc. 
+
+by default stack memory is samll due to storing small memory data.
+
+we can change storing capacity of stack and heap memory on changing the OS setting
+
+
+by default heap memory is large
+
+
+
+jab tak hum new keyword ka use nahi karte tab tak sub kuch staic allocate hone ke karan stack memory main store hoga lakin jaise hi hum nain new keyword ka use kar liya then memory dynamically allocate hogi
+
+when we write 
+        new int 
+then an address of an integer block is return which is stored in a pointer which is created in a stack memory
+
+
+
+when we occupy the storage dynamically the a heap memory is occupied and after the completion of work we need deallocate the memory if we do not deallocate the memory then it will occupy more storage so that our storage will be full so we need to deallocate the heap memory
+
+for deallocation of memory we use delete operator or keyword

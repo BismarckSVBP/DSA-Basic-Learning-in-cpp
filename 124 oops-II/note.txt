@@ -1,0 +1,28 @@
+//encapsulation main data hiding ka kaam kar rahe hote hai 
+
+
+
+
+
+
+
+
+
+//inheritence is a relationship
+
+
+
+//polymorphism - > exits in many form
+ex-> how can we create many functions with same name
+
+
+
+polymorphism is two type 
+1). Compile-time polymorphism -> it is based on two things i). Function overloading & ii). operator overloading 
+2).run-time polymorphism
+
+
+
+
+//operator overloading is the process in which we overload the operator means we can that work with the operator which work does not belong to that operator 
+ex -> we can perform subtraction thruogh addition symbol

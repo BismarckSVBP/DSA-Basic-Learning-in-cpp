@@ -1,0 +1,52 @@
+by default jo state hoti hai woh private mark hoti hai 
+
+
+Access modifier 3 type ke hote hai 
+1).Public -> Scope in the all over the program
+2).Private -> Scope in the under the state
+3).Protected ->
+
+
+to access a private properties we use 
+getters & setters
+
+
+
+
+
+this is a pointer to current object
+jis object ke liye function call hota hai use current object kahte hai
+
+if this->weight likha hai toh ye show kar raha hai current object ki weight wali property
+
+example yadi hum suresh ke liye function call karte hai toh suresh us samay current object ho jata hai agar ramesh ke liye us samay ramesh current objectho jata hai 
+
+
+we can not write outside the class
+
+
+
+
+
+
+
+
+//object construter
+
+hum jab bhi code karenge construter automatically by default call ho jata hai
+
+by default construter pahle se bana hota hai jab hum construter likh dete hai toh woh by default construter ko override kar deta 
+
+we make construter for by default initialisation of the variables
+
+
+by default constructor shallow copy banata hai jabki copy constructor deep copy banata hai.
+
+
+
+//destructor->ismain bhi constructor ki tarah return type & input parameter nhi hota hai 
+
+if we make static call then automatically destructor is called but if we make dynamic initialisation then we need to delete it manually .
+
+
+new keyword heap se memory allocate kara karke uska address deti hai jise hum pointer main store karte hain. 
